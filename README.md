@@ -1,5 +1,3 @@
-# urban-theme
+# Crypto-Airdrop-Almanac
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
-
-Live-Demo: https://narkotyk.netlify.app
+Welcome to our Archive of Cryptocurrency Airdrops - Your One-Stop Destination for Everything You Need to Know about Historical Airdrops Criteria's! Our website is designed to make it easy for you to explore the captivating world of airdrops. Discover the rules and eligibility criteria used by various projects to conduct airdrops.
